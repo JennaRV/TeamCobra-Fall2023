@@ -7,4 +7,5 @@ public class Main {
 //Jenna made a change to the code
 //Krishan made changes to the cloned code.
 //Khadija added the main method in order to make changes to the cloned code.
+//Khoa made changes to the cloned code.
 }
